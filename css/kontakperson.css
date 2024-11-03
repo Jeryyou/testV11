@@ -1,0 +1,14 @@
+/* teks */
+.class{
+    font-family: monospace;
+}
+
+.pertanyaan{
+    color: red;
+    font-family: monospace;
+}
+
+/* background */
+body{
+    background-color: pink;
+}

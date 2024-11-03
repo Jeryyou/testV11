@@ -1,0 +1,51 @@
+p{
+    color: black;
+    font-family: tahoma;
+}
+
+p>span{
+    color: rgb(0, 255, 55)
+    
+}
+
+p>span{
+    font-family: fantasy;
+}
+
+    b{
+        background-color: ;
+        color: green;
+    }
+
+h3{
+color: blue;
+}
+
+*{
+    font-family: Arial;
+}
+
+.TULIS{
+    font-family: serif;
+    font-size: 22px;
+}
+
+div{
+    border-style: inset;
+}
+.box1{
+    height: 200px;
+    width: 300px;
+    background-color:;
+    color: black;
+}
+
+body{
+    background-color: white ;
+}
+.halaman{
+    color: black;
+}
+.song{
+    border: 20px red;
+}
